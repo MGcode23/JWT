@@ -1,0 +1,14 @@
+.card-body {
+    background: rgba(47, 32, 58, 0.219);
+  }
+  .card-main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .row-user {
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+  
